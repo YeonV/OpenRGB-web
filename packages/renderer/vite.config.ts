@@ -29,7 +29,7 @@ export default defineConfig({
       }
     ),
   ],
-  base: process.env.GHPAGES==="TRUE" ?'/OpenRGB web/':'./',
+  base: process.env.GHPAGES==="TRUE" ?'/OpenRGBweb/':'./',
   build: {
     sourcemap: true,
     outDir: '../../dist/renderer',

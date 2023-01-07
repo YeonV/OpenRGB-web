@@ -1,6 +1,6 @@
 {
-  "name": "openrgb-web",
-  "productName": "OpenRGB web",
+  "name": "openrgbweb",
+  "productName": "OpenRGBweb",
   "private": true,
   "version": "0.0.1",
   "description": "OpenRGB web 0.0.1 - supercharged with Vitron (by Blade)",
